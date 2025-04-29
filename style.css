@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+.parentDiv {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 0;
+    align-items: center;
+    min-height: 50vh;
+}
+.one{
+    background: #686de0;
+    width: 100px;
+    height: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.two{
+    background: #be2edd;
+    width: 100px;
+    height: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.three{
+    background: #badc58;
+    width: 100px;
+    height: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.four{
+    background: #22a6b3;
+    width: 100px;
+    height: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.five{
+    background: #f9ca24;
+    width: 100px;
+    height: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+}
